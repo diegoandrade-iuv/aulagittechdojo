@@ -1,3 +1,4 @@
 Linha 1 do arquivo novo 
 linha 2 do arquivo 1teste 
 nova linha
+mais uma linha dessa vez pelo GH
