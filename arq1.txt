@@ -1,2 +1,2 @@
 Linha 1 do arquivo novo 
-linha 2 do arquivo 1
+linha 2 do arquivo 1teste 
